@@ -18,14 +18,34 @@
         },
         "626463485": {
                 "reason": "Bypass không có nghĩa là muốn làm gì cũng được",
-                "dateAdded: "Không xác định"
-        }
+                "dateAdded": "Không xác định"
+        },
 	"100015151637257": {
                 "reason": "Nhờn với ai",
-                "dateAdded: "Không xác định"
+                "dateAdded": "Không xác định"
         },
         "100067978353741" : {
                 "reason": "procoder",
-                "dateAdded: "Không xác định"
+                "dateAdded": "Không xác định"
+        },
+        "100066521507747":{
+        	"reason" : "phá bot cướp admin",
+        	"dateAdded": "20:49 5/8/2021 "
+        },
+        "100024099257124":{
+        	"reason" : "phá bot cướp admin",
+        	"dateAdded": "20:49 5/8/2021 "
+        },
+        "100025213890667":{
+        	"reason" : "phá bot cướp admin",
+        	"dateAdded": "20:49 5/8/2021 "
+        },
+        "100033837256636":{
+        	"reason" : "phá bot cướp admin",
+        	"dateAdded": "20:49 5/8/2021 "
+        },
+        "100040801755901":{
+        	"reason" : "phá bot cướp admin",
+        	"dateAdded": "20:49 5/8/2021 "
         }
 }
